@@ -16,7 +16,7 @@ print(a, b, c) las comas importan
 """
 
 # Print the values of a, b, and c
-# Imprimir los valores de a, b y
+# Imprimir los valores de a, b y c
 print(a)
 print(b)
 print(c)
